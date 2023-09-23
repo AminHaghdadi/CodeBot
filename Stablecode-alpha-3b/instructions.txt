@@ -1,0 +1,3 @@
+First you should download this model frol the link below:
+https://huggingface.co/TheBloke/stablecode-instruct-alpha-3b-GGML/resolve/main/stablecode-instruct-alpha-3b.ggmlv1.q8_0.bin
+Second put this model in this folder.
