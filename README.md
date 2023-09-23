@@ -1,6 +1,5 @@
 # CodeBot
 ![image](https://img.shields.io/badge/-LangChain-32CD32?logo=LangChain&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-llama2_7b-0467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![image](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![image](https://img.shields.io/badge/StableCode-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 
