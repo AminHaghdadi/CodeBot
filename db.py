@@ -1,7 +1,7 @@
 from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.document_loaders import DirectoryLoader,JSONLoader,TextLoader
+from langchain.document_loaders import DirectoryLoader,TextLoader
 import torch
 
 # Check if GPU is available, otherwise set device to CPU
